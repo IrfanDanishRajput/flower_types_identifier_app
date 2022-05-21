@@ -1,6 +1,6 @@
 #### Flower Type Identifier
 
-<img src="https://drive.google.com/uc?export=view&id=1OyuR-SffKqmopsqWc8aiNO8Vkr6-TiWU" width="350" height="350">
+<img src="https://drive.google.com/uc?export=view&id=1OyuR-SffKqmopsqWc8aiNO8Vkr6-TiWU" width="1000" height="750">
 
 A AI based Flutter application, that identifies flower types. 
 
