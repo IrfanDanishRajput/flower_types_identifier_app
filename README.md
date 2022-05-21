@@ -3,7 +3,7 @@
 A AI based Flutter application, that identifies flower types. 
 
 ![alt text](https://drive.google.com/drive/u/0/folders/1QavLCfW65n7z_5zDrxqCO8TdNgv-P_j2)
-![alt text](https://drive.google.com/drive/u/0/folders/1QavLCfW65n7z_5zDrxqCO8TdNgv-P_j2)
+![alt text](https://drive.google.com/uc?export=view&id=18V3HRqHvFgMTKXgFPzeNsOKFF1T6aoTw)
 
 ## Getting Started
 
